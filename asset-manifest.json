@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fe40f7c.css",
-    "main.js": "/static/js/main.8c8777e4.js",
-    "static/js/453.7b9e6196.chunk.js": "/static/js/453.7b9e6196.chunk.js",
-    "index.html": "/index.html",
-    "main.9fe40f7c.css.map": "/static/css/main.9fe40f7c.css.map",
-    "main.8c8777e4.js.map": "/static/js/main.8c8777e4.js.map",
-    "453.7b9e6196.chunk.js.map": "/static/js/453.7b9e6196.chunk.js.map"
+    "main.css": "/paginaprada21/static/css/main.9fe40f7c.css",
+    "main.js": "/paginaprada21/static/js/main.b08cbc4b.js",
+    "static/js/453.7b9e6196.chunk.js": "/paginaprada21/static/js/453.7b9e6196.chunk.js",
+    "index.html": "/paginaprada21/index.html",
+    "main.9fe40f7c.css.map": "/paginaprada21/static/css/main.9fe40f7c.css.map",
+    "main.b08cbc4b.js.map": "/paginaprada21/static/js/main.b08cbc4b.js.map",
+    "453.7b9e6196.chunk.js.map": "/paginaprada21/static/js/453.7b9e6196.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9fe40f7c.css",
-    "static/js/main.8c8777e4.js"
+    "static/js/main.b08cbc4b.js"
   ]
 }
